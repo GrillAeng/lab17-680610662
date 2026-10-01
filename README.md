@@ -1,5 +1,9 @@
 # lab17-2569-starter — Zod + React Hook Form
 
+รหัสนักศึกษา : 680610662
+ชื่อ-นามสกุล : จิรภัทร ปัตตะแวว
+
+
 ```bash
 pnpm install
 pnpm dev
